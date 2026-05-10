@@ -157,15 +157,15 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="thisisdara--mhr-cfw-go"></div>
+<div id="hidden-node--gooserelayvpn-androidclient"></div>
 
-### ThisIsDara--mhr-cfw-go
+### Hidden-Node--GooseRelayVPN-AndroidClient
 
-🔗 [source](https://github.com/ThisIsDara/mhr-cfw-go) – [<code><small>v1.3.0</small></code>](https://github.com/ThisIsDara/mhr-cfw-go/releases/tag/v1.3.0)
+🔗 [source](https://github.com/Hidden-Node/GooseRelayVPN-AndroidClient) – [<code><small>v1.0.2</small></code>](https://github.com/Hidden-Node/GooseRelayVPN-AndroidClient/releases/tag/v1.0.2)
 
 | File | Size | Download |
 |------|------|----------|
-| `mhr-cfw-go-windows-amd64.exe` | 6.6 MB | [⬇️ Download](https://raw.githubusercontent.com/siamakmu/LatestReleaseMirror/main/releases/ThisIsDara/mhr-cfw-go/mhr-cfw-go-windows-amd64.exe) |
+| `GooseRelayVPN-HN-1.0.2-arm64-v8a-release.apk` | 10.7 MB | [⬇️ Download](https://raw.githubusercontent.com/siamakmu/LatestReleaseMirror/main/releases/Hidden-Node/GooseRelayVPN-AndroidClient/GooseRelayVPN-HN-1.0.2-arm64-v8a-release.apk) |
 
 ---
 
