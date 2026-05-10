@@ -10,7 +10,10 @@
 # ThisIsDara/mhr-cfw-go|mhr-cfw-go-windows-amd64.exe
 
 # 3. Mix of keywords and file extensions (note escaping of dots)
-Hidden-Node/GooseRelayVPN-AndroidClient|arm64-v8a-release.apk|client-v1.6.0-windows-amd64.zip
+# Hidden-Node/GooseRelayVPN-AndroidClient|arm64-v8a-release.apk
+
+# 4. Mix of keywords and file extensions (note escaping of dots)
+# Kianmhz/GooseRelayVPN|client-v1.6.0-windows-amd64.zip
 
 # 2. Match keywords (e.g., linux-amd64, darwin-amd64)
 # NullLatency/FlowDriver|linux-amd64|darwin-amd64
