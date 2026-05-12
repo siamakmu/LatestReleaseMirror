@@ -19,7 +19,7 @@
 # Kianmhz/GooseRelayVPN|client-v1.6.0-windows-amd64.zip
 
 # 4. Mix of keywords and file extensions (note escaping of dots)
-MaxiFan/TunnelX|\.sha256|\.exe
+MaxiFan/TunnelX|*
 
 # 2. Match keywords (e.g., linux-amd64, darwin-amd64)
 # NullLatency/FlowDriver|linux-amd64|darwin-amd64
