@@ -13,7 +13,7 @@
 # Hidden-Node/GooseRelayVPN-AndroidClient|arm64-v8a-release.apk
 
 # 3. Mix of keywords and file extensions (note escaping of dots)
-# amirshaker000/netlify-relay|vless-config-creator
+amirshaker000/netlify-relay|vless-config-creator
 
 # 4. Mix of keywords and file extensions (note escaping of dots)
 Kianmhz/GooseRelayVPN|client-v1.6.0-windows-amd64.zip
