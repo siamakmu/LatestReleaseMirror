@@ -157,25 +157,13 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="kianmhz--gooserelayvpn"></div>
+<div id="maxifan--tunnelx"></div>
 
-### Kianmhz--GooseRelayVPN
+### MaxiFan--TunnelX
 
-🔗 [source](https://github.com/Kianmhz/GooseRelayVPN) – [<code><small>v1.6.0</small></code>](https://github.com/Kianmhz/GooseRelayVPN/releases/tag/v1.6.0)
-
-| File | Size | Download |
-|------|------|----------|
-| `GooseRelayVPN-client-v1.6.0-windows-amd64.zip` | 2.5 MB | [⬇️ Download](https://raw.githubusercontent.com/siamakmu/LatestReleaseMirror/main/releases/Kianmhz/GooseRelayVPN/GooseRelayVPN-client-v1.6.0-windows-amd64.zip) |
-
----
-
-<div id="amirshaker000--netlify-relay"></div>
-
-### amirshaker000--netlify-relay
-
-🔗 [source](https://github.com/amirshaker000/netlify-relay) – [<code><small>v2.0.0</small></code>](https://github.com/amirshaker000/netlify-relay/releases/tag/v2.0.0)
+🔗 [source](https://github.com/MaxiFan/TunnelX) – [<code><small>v1.2.23</small></code>](https://github.com/MaxiFan/TunnelX/releases/tag/v1.2.23)
 
 | File | Size | Download |
 |------|------|----------|
-| `vless-config-creator-v2.0.0.rar` | 93.0 MB | [⬇️ Download](https://raw.githubusercontent.com/siamakmu/LatestReleaseMirror/main/releases/amirshaker000/netlify-relay/vless-config-creator-v2.0.0.rar) |
+| `TunnelX-v1.2.23-standalone-compressed.exe.sha256` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/siamakmu/LatestReleaseMirror/main/releases/MaxiFan/TunnelX/TunnelX-v1.2.23-standalone-compressed.exe.sha256) |
 <!-- RELEASES_END -->
