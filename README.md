@@ -166,4 +166,16 @@ sha256sum FILE_NAME
 | File | Size | Download |
 |------|------|----------|
 | `GooseRelayVPN-client-v1.6.0-windows-amd64.zip` | 2.5 MB | [⬇️ Download](https://raw.githubusercontent.com/siamakmu/LatestReleaseMirror/main/releases/Kianmhz/GooseRelayVPN/GooseRelayVPN-client-v1.6.0-windows-amd64.zip) |
+
+---
+
+<div id="amirshaker000--netlify-relay"></div>
+
+### amirshaker000--netlify-relay
+
+🔗 [source](https://github.com/amirshaker000/netlify-relay) – [<code><small>v2.0.0</small></code>](https://github.com/amirshaker000/netlify-relay/releases/tag/v2.0.0)
+
+| File | Size | Download |
+|------|------|----------|
+| `vless-config-creator-v2.0.0.rar` | 93.0 MB | [⬇️ Download](https://raw.githubusercontent.com/siamakmu/LatestReleaseMirror/main/releases/amirshaker000/netlify-relay/vless-config-creator-v2.0.0.rar) |
 <!-- RELEASES_END -->
